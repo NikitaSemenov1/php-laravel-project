@@ -1,0 +1,6 @@
+.env
+db.sqlite
+composer.phar
+vendor
+.idea
+storage
